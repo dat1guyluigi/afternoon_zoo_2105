@@ -1,5 +1,5 @@
-require 'rspec'
-require './lib/animal'
+require "rspec"
+require "./lib/animal"
 
 RSpec.describe Animal do
   it 'exists' do
